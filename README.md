@@ -1,2 +1,2 @@
 # NLP
-Proyecto que crea representaciones textuales de políticos latinoamericanos a partir de biografías extraídas de Wikipedia. Se implementaron dos métodos: TF-IDF y embeddings, y se visualizó su posición relativa mediante t-SNE, mostrando las relaciones semánticas entre los textos.
+Project that generates textual representations of politicians using biographies extracted from Wikipedia. Two approaches were implemented—TF-IDF and text embeddings—and their relative positions were visualized with t-SNE to reveal semantic relationships between the texts.
